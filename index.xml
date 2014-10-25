@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on &lt;msaied93 /&gt; </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/index.xml/</link>
+    <language>ar-sy</language>
+    
+    
+    <updated>Sat, 25 Oct 2014 11:58:10 IST</updated>
+    
+    <item>
+      <title>مقالاتي على ويكيبيديا</title>
+      <link>http://localhost:1313/w/wikipedia/</link>
+      <pubDate>Sat, 25 Oct 2014 11:58:10 IST</pubDate>
+      
+      <guid>http://localhost:1313/w/wikipedia/</guid>
+      <description>&lt;p&gt;ليست &amp;ldquo;مقالاتي&amp;rdquo; ولكن هي مقالات أنشأتها.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://ar.wikipedia.org/wiki/بنية_هارفرد.html&#34;&gt;بنية هارفرد&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>بوست رقم واحد</title>
+      <link>http://localhost:1313/post/1/</link>
+      <pubDate>Sun, 19 Oct 2014 19:04:00 IST</pubDate>
+      
+      <guid>http://localhost:1313/post/1/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;البوست الأول&lt;/h2&gt;
+
+&lt;p&gt;هذا أول منشور عبر هوغو: مولد المواقع الستاتيكية.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;جرب نقطة&lt;/li&gt;
+&lt;li&gt;نقطتين&lt;/li&gt;
+&lt;li&gt;ثلاثة&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;الهدف من هذا الموقع تجربة &lt;a href=&#34;http://hugo.spf13.com&#34;&gt;هوغو&lt;/a&gt; في توليد موقع بمحتوى عربي، وتجربة القوالب المختلفة المتاحة.&lt;/p&gt;
+
+&lt;p&gt;تحياتي للزائرين!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>حول الموقع</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 19 Oct 2014 19:01:48 IST</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;حول الموقع&lt;/h2&gt;
+
+&lt;p&gt;أهلاً بكم في الموقع الشخصي (الثالث ربما؟) لمحمد سعيد. معلش أنا مهندس معلوماتية (قريباً) وما في مشكلة يكون عندي كتير مواقع :P&lt;/p&gt;
+
+&lt;p&gt;يمكنكم متابعة أخبار ترجمة دفتر مدير دبيان عبر &lt;a href=&#34;http://ar.debian-handbook.info&#34;&gt;الموقع الرسمي&lt;/a&gt;. حالياً بقي منه فصل كبير واحد وثلاثة فصول صغيرة، يتوقع أن تنتهي الترجمة خلال شهر 11 من هذا العام إن شاء الله.&lt;/p&gt;
+
+&lt;p&gt;هنا أذكر أعمالي السابقة والحالية وغيرها مما يخطر على بالي. مقالاتي المتعلقة بالبرمجيات الحرة تجدونها على &lt;a href=&#34;http://barmagyiathurra.wordpress.com&#34;&gt;مجلة البرمجيات الحرة&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;المقالات التي أنشأتها على &lt;a href=&#34;https://ar.wikipedia.org&#34;&gt;ويكيبيديا العربية&lt;/a&gt; &lt;a href=&#34;/w/wikipedia&#34;&gt;تجدونها هنا&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on &lt;msaied93 /&gt; </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/post/index.xml/</link>
+    <language>ar-sy</language>
+    
+    
+    <updated>Sun, 19 Oct 2014 19:04:00 IST</updated>
+    
+    <item>
+      <title>بوست رقم واحد</title>
+      <link>http://localhost:1313/post/1/</link>
+      <pubDate>Sun, 19 Oct 2014 19:04:00 IST</pubDate>
+      
+      <guid>http://localhost:1313/post/1/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;البوست الأول&lt;/h2&gt;
+
+&lt;p&gt;هذا أول منشور عبر هوغو: مولد المواقع الستاتيكية.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;جرب نقطة&lt;/li&gt;
+&lt;li&gt;نقطتين&lt;/li&gt;
+&lt;li&gt;ثلاثة&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;الهدف من هذا الموقع تجربة &lt;a href=&#34;http://hugo.spf13.com&#34;&gt;هوغو&lt;/a&gt; في توليد موقع بمحتوى عربي، وتجربة القوالب المختلفة المتاحة.&lt;/p&gt;
+
+&lt;p&gt;تحياتي للزائرين!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
