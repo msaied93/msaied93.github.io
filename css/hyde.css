@@ -81,6 +81,7 @@ html {
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 2.25rem;
+  direction: ltr;
 }
 
 /* Sidebar nav */
@@ -153,9 +154,6 @@ a.sidebar-nav-item:focus {
     left: auto;
     right: 0;
     text-align: right;
-  }
-  .layout-reverse .sidebar-about h1 {
-    direction: ltr;
   }
   .layout-reverse .content {
     margin-left: 2rem;
