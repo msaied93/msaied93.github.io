@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Ws on &lt;msaied93 /&gt; </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://msaied93.github.io/w/index.xml/</link>
+    <title>Ws on &lt;msaied93 /&gt;</title>
+    <link>https://msaied93.github.io/w/</link>
+    <description>Recent content in Ws on &lt;msaied93 /&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>ar-sy</language>
-    
-    
-    <updated>Sat, 25 Oct 2014 11:58:10 IST</updated>
+    <lastBuildDate>Sat, 25 Oct 2014 11:58:10 +0300</lastBuildDate>
+    <atom:link href="https://msaied93.github.io/w/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>مقالاتي على ويكيبيديا</title>
-      <link>http://msaied93.github.io/w/wikipedia/</link>
-      <pubDate>Sat, 25 Oct 2014 11:58:10 IST</pubDate>
+      <link>https://msaied93.github.io/w/wikipedia/</link>
+      <pubDate>Sat, 25 Oct 2014 11:58:10 +0300</pubDate>
       
-      <guid>http://msaied93.github.io/w/wikipedia/</guid>
+      <guid>https://msaied93.github.io/w/wikipedia/</guid>
       <description>&lt;p&gt;ليست &amp;ldquo;مقالاتي&amp;rdquo; ولكن هي مقالات أنشأتها. السبب وراء نشر أسمائها هنا هو أنني أنوي إنشاء 100 مقالة جديدة خلال هذا العام إن شاء الله (إحدى resolutions عام 2015). تمنوا لي التوفيق!&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://ar.wikipedia.org/wiki/بنية_هارفارد&#34;&gt;بنية هارفارد&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ar.wikipedia.org/wiki/كلمة_(بنية_الحاسوب&#34;&gt;كلمة (بنية الحاسوب)&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ar.wikipedia.org/wiki/نيكولاس_كار&#34;&gt;نيكولاس كار&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ar.wikipedia.org/wiki/ترجمة_ثنائية&#34;&gt;ترجمة ثنائية&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ar.wikipedia.org/wiki/كتلة_بسيطة&#34;&gt;كتلة بسيطة&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
